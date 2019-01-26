@@ -1,0 +1,15 @@
+{
+  "name": "aricle-devp2p",
+  "version": "1.0.0",
+  "description": "For devp2p article for etherworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "k-bucket": "^5.0.0"
+  }
+}
